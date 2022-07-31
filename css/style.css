@@ -6,25 +6,24 @@
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  flex-wrap: wrap;
   background: var(--blue);
 }
 
 .hero-introduction h3 {
   font-weight: 600;
   color: #a5c4f8;
-  font-size: calc(25 / 16 * 1rem);
+  font-size: calc(30 / 16 * 1rem);
 }
 
 .hero-introduction h1 {
   font-weight: 700;
   color: var(--white);
-  font-size: calc(65 / 16 * 1rem);
+  font-size: calc(80 / 16 * 1rem);
 }
 .hero-introduction h2 {
   font-weight: 700;
   color: #2c559d;
-  font-size: calc(65 / 16 * 1rem);
+  font-size: calc(70 / 16 * 1rem);
   margin-bottom: 20px;
 }
 
@@ -87,7 +86,7 @@
 
 .social svg:hover {
   color: rgba(255, 255, 255, 0.905);
-transform: translateX(-5px);
+  transform: translateX(-5px);
 }
 
 .social .tiktok svg {
@@ -158,13 +157,13 @@ transform: translateX(-5px);
 
 @media screen and (max-width: 950px) {
   .hero {
-    flex-direction: column-reverse;
+    flex-direction: column;
     align-items: flex-start;
     justify-content: center;
   }
 
   .hero-introduction {
-    margin: 30px auto;
+    margin: 0 auto 100px auto;
     text-align: center;
   }
 
