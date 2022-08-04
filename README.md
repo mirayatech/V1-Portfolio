@@ -1,7 +1,7 @@
 ## How it looks 👀
 
+![Screenshot from 2022-08-04 16-11-39](https://user-images.githubusercontent.com/71933266/182868630-3ddf558d-d52c-45eb-ab08-5d524c17da03.png)
 
-![m1](https://user-images.githubusercontent.com/71933266/176994626-8730b71a-223b-4ea5-8e3a-e56bc21f792b.png)
 
 
 ## Color codes 🎨
