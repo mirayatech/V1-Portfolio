@@ -1,6 +1,3 @@
-# My-Protfolio
-My portfolio with the color theme of blue 💙
-
 ## How it looks 👀
 
 
