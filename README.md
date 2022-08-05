@@ -1,3 +1,5 @@
+## Live Demo: https://mirayatech.vercel.app/
+
 ## How it looks 👀
 
 ![Screenshot from 2022-08-04 16-11-39](https://user-images.githubusercontent.com/71933266/182868630-3ddf558d-d52c-45eb-ab08-5d524c17da03.png)
