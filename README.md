@@ -2,7 +2,10 @@
 
 ## How it looks 👀
 
-![Screenshot from 2022-08-04 16-11-39](https://user-images.githubusercontent.com/71933266/182868630-3ddf558d-d52c-45eb-ab08-5d524c17da03.png)
+
+https://user-images.githubusercontent.com/71933266/183035484-171b89ef-2140-4da8-972e-4427db9d8f21.mp4
+
+
 
 
 
