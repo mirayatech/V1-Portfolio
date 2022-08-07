@@ -1,7 +1,12 @@
+## Live Demo: https://mirayatech.vercel.app/
+
 ## How it looks 👀
 
 
-![m1](https://user-images.githubusercontent.com/71933266/176994626-8730b71a-223b-4ea5-8e3a-e56bc21f792b.png)
+https://user-images.githubusercontent.com/71933266/183035484-171b89ef-2140-4da8-972e-4427db9d8f21.mp4
+
+
+
 
 
 ## Color codes 🎨
